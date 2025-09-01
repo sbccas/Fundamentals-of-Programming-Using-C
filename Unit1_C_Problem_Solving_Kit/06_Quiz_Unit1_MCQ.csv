@@ -1,0 +1,21 @@
+No,Question,Option A,Option B,Option C,Option D,Correct Answer,Explanation
+1,An algorithm must terminate after a finite number of steps. This property is called:,Definiteness,Finiteness,Effectiveness,Correctness,B,Finiteness ensures the algorithm ends.
+2,"In a flowchart, which symbol represents a decision?",Oval,Parallelogram,Rectangle,Diamond,D,Decision is shown by a diamond.
+3,IPO stands for:,Input-Process-Output,Inside-Process-Outside,Input-Program-Output,Index-Process-Object,A,Standard model for problem analysis.
+4,Which is NOT a typical criterion for selecting an approach?,Correctness,Simplicity,Aesthetics of variable names,Time/space efficiency,C,Variable name aesthetics are secondary.
+5,Divide and conquer primarily helps with:,Combining inputs,Breaking problems into subproblems,Increasing code length,Removing constraints,B,It decomposes complex tasks.
+6,"In pseudocode, which loop is best when the number of iterations is known?",WHILE,REPEAT-UNTIL,FOR,IF,C,FOR loops fit fixed counts.
+7,Which of the following is NOT a flowchart symbol?,Process,Connector,Database,Decision,C,Database is a specialized symbol not needed here.
+8,Constraint examination focuses on:,Programmer preferences,Resource limits and requirements,Adding more features,Beautifying code,B,It studies limits like time/memory.
+9,Which example best fits 'simplification'?,Ignoring invalid inputs initially,Binary search instead of linear search,Optimizing constants,Parallelizing loops,A,"Start with core happy path, then expand."
+10,Which is TRUE about pseudocode?,It is compiled by the C compiler,It is language-agnostic and human-readable,It must use exact C syntax,It avoids indentation,B,Pseudocode is not tied to languages.
+11,Key components of IPO are:,"Input, Process, Output","Initialize, Program, Optimize","Index, Pointer, Operand","Input, Program, Output",A,"Correct trio is Input, Process, Output."
+12,A flowchart should generally flow:,Bottom to top,Right to left,"Top to bottom, left to right",Randomly,C,Standard readability convention.
+13,Which statement is FALSE for algorithms?,They must be unambiguous,They may run forever,They must produce output,They should be effective,B,They must terminate.
+14,A good first step before coding is:,Choose variable colors,Draw a flowchart or write pseudocode,Memorize library functions,Write comments only,B,Plan logic via pseudocode/flowcharts.
+15,Linear search on an array:,Requires sorted array,Does not require sorted array,Works only with strings,Returns all duplicates always,B,Order is not required for linear search.
+16,Which is most relevant to performance constraints?,Font size of code,Time complexity,File extension,Indentation style,B,Performance ties to time complexity.
+17,The rectangle in a flowchart denotes:,Input/Output,Process,Decision,Start/End,B,Process step.
+18,"In problem analysis, trade-offs are considered while:",Gathering data,Generating alternative methods,Selecting optimum approach,Writing outputs,C,Selection involves trade-offs.
+19,"Which technique fits combining small, tested modules?",Divide & Conquer,Constraint Examination,Simplification,Debugging,A,D&C builds from submodules.
+20,Effectiveness in algorithms means:,Steps are theoretically possible,Steps are basic and can be done in finite time,Steps need specialist hardware,Steps are optional,B,Effectiveness implies feasible steps.
