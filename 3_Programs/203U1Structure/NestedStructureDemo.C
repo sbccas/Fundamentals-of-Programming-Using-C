@@ -43,6 +43,9 @@ int main()
     printf("City: %s\n", emp.homeAddress.city);
     printf("Pincode: %d\n", emp.homeAddress.pincode);
 
+     //Size of Structures
+    printf("\nSize of Address Structure: %zu bytes\n", sizeof(struct Address));
+    printf("Size of Employee Structure: %zu bytes\n", sizeof(struct Employee));
     
     return 0;
 }
