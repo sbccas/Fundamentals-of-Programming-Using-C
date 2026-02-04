@@ -1,5 +1,5 @@
 /*
-WAP to show demo of User Defined Function where we will be able to pass 
+WAP to show demo of User Defined Function where we will be able to pass
 Structure object as Value to the function and display the structure members inside the function.
 */
 
