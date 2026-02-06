@@ -1,8 +1,3 @@
-Perfect 👍
-Below are **two clearly separated, educator-ready sections** exactly as you asked:
-
----
-
 # ✅ Unit–3 (Pointers in C) – Practice Program List
 
 **For regular lab practice & concept strengthening**
