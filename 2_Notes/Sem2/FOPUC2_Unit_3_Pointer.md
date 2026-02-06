@@ -342,6 +342,9 @@ int main() {
 * This method avoids indexing
 * Commonly used in string functions
 
+More Ref:
+https://www.tutorialspoint.com/cprogramming/c_character_pointers_and_functions.htm
+
 ---
 
 ## 3.5 Array of Pointers and Pointer to Array
