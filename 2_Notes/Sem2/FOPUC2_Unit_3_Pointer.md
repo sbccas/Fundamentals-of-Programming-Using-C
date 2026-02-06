@@ -160,11 +160,15 @@ int main(){
 }
 ```
 Output
+
 Notice that all the three cases of dereferencing print the value of "a" −
 
 a: 10
+
 a: 10
+
 a: 10
+
 a: 10
 
 Updating the Original Variable by Dereferencing
@@ -208,11 +212,15 @@ int main(){
 }
 ```
 Output
+
 Run the code and check its output −
 
 a:10.250000
+
 a:11.250000
+
 a:12.250000
+
 a:13.250000
 
 #### A Chain of Character Pointers
@@ -250,11 +258,15 @@ int main(){
 }
 ```
 Output
+
 When you run this code, it will produce the following output −
 
 a: Hello
+
 a: Hello
+
 a: Hello
+
 a: Hello
 
 ### Key Concepts
