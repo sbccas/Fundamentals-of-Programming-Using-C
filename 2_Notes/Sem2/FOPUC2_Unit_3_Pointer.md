@@ -106,6 +106,9 @@ int main() {
 
 A **chain of pointers** means a pointer pointing to another pointer.
 
+![alt text](image.png)
+
+
 ### Key Concepts
 
 * Single pointer → points to variable
